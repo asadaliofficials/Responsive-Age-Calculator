@@ -1,0 +1,2 @@
+# How-to-build-a-Responsive-Age-Calculator-using-Vanilla-Javascript
+In this article, I will show you how to create your own age calculator for your website using Vanilla JavaScript. We’ll walk through the steps to design a simple form, implement the JavaScript logic, and style the calculator. By the end, you'll have a functional age calculator that can calculate someone's age based on their birth date.
