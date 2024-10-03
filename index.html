@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <title>Year calculator app</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+    <div class="content">
+  
+      <div class="input">
+
+        <div>
+          <h6>Day</h6>
+          <input type="text" placeholder="DD" id="dayIn">
+          <p class="error"></p>
+        </div>
+    
+        <div>
+          <h6>Month</h6>
+          <input type="text" placeholder="MM" id="monthIn">
+          <p class="error"></p>
+        </div>
+     
+        <div>
+          <h6>Year</h6>
+          <input type="text" placeholder="YYYY" id="yearIn">
+          <p class="error"></p>
+        </div>
+        <div>
+          <button id="calculateBtn">Calculate</button>
+        </div>
+      </div>
+    
+      <hr>
+
+   
+      <div class="result">
+        <h1><span id="yearOut">--</span> Years</h1>
+        <h1><span id="monthOut">--</span> Months</h1>
+        <h1><span id="dayOut">--</span> Days</h1>
+        <h1><span id="hourOut">--</span> Hours</h1>
+        <h1><span id="minuteOut">--</span> Minutes</h1>
+        <h1><span id="secondOut">--</span> Seconds</h1>
+
+      </div>
+    </div>
+
+  <footer class="footer">
+
+    Code with ❤️ by <a target="_blank" href="https://lucky-developers.blogspot.com">Lucky Developers</a>.
+  </footer>
+
+
+</body>
+<script src="assets/main.js"></script>
+
+
+</html>
