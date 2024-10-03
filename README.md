@@ -1,6 +1,6 @@
 # How to build a Responsive Age Calculator using Vanilla Javascript:
 ### <pre> Give a Star Please...⭐⭐⭐</pre>
-- Live Preview: ➡️ [Click to Open](https://asadaliofficials.github.io/3d-Card-Flip-Effect-using-css/)
+- Live Preview: ➡️ [Click to Open](https://asadaliofficials.github.io/Responsive-Age-Calculator/)
 - Youtube Tutorial: ➡️ [Click to Open](https://www.youtube.com/@luckydevelopers/videos)
 
 ## Screenshots of this Project
